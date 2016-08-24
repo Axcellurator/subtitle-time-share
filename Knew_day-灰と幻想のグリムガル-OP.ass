@@ -9,7 +9,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
 
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,A-OTF A1 Mincho Std,40,&H00000000,&H0087E779,&H00000000,&H00000000,0,0,0,0,100,100,5.33333,0,1,0,0,7,7,7,7,1
